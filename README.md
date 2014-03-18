@@ -2,7 +2,7 @@ Python Basics
 ============
 
 1. [Introduction](http://nbviewer.ipython.org/urls/db.tt/Cwss5FT5?create=1)
-1. [Expressions](http://nbviewer.ipython.org/urls/db.tt/9x55PEdp?create=1)
+1. [Expressions](http://nbviewer.ipython.org/urls/db.tt/22mFiWX3?create=1)
 1. [Statements](http://nbviewer.ipython.org/urls/db.tt/KKZddZmZ?create=1)
 1. [Scripts](http://nbviewer.ipython.org/urls/db.tt/EHXfFqle?create=1)
 1. [Functions](http://nbviewer.ipython.org/urls/db.tt/zpRvrBxn?create=1)
